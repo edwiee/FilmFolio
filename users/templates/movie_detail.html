@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Movie Detail</title>
+</head>
+<body>
+  <h2>{{ movie.title }}</h2>
+  <img src="{{ movie.poster.url }}" alt="Poster">
+  <p>{{ movie.description }}</p>
+  <p>Release Date: {{ movie.release_date }}</p>
+  <p>Actors: {{ movie.actors }}</p>
+  <p>Category: {{ movie.category.name }}</p>
+  <p><a href="{{ movie.trailer_link }}">Watch Trailer</a></p>
+
+  <h3>Reviews</h3>
+  <ul>
+    {% for review in reviews %}
+      <li>{{ review.user.username }}: {{ review.rating }} - {{ review.review_text }}</li>
+    {% endfor %}
+  </ul>
+
+  <h3>Post a Review</h3>
+  <form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Submit Review</button>
+  </form>
+</body>
+</html>

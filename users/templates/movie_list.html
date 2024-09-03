@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Movie Lists</title>
+</head>
+<body>
+  <h2>Movie List</h2>
+  <ul>
+    {% for movie in movies %}
+      <li><a href="{% url 'movie_detail' movie.id %}">{{ movie.title }}</a></li>
+    {% endfor %}
+  </ul>
+</body>
+</html>
