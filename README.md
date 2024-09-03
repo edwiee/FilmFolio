@@ -16,7 +16,7 @@ Edwin | [@edwiee](https://github.com/edwiee)
 
 #
 ### 🧸 Quick Look
-![DEMO(https://github.com/user-attachments/assets/15fc55cc-11e6-414d-bf5e-c876b45b337c)](https://github.com/user-attachments/assets/15fc55cc-11e6-414d-bf5e-c876b45b337c)
+https://github.com/user-attachments/assets/db039e7c-13da-4b0e-a730-1a8e4033c904
 
 #
 ### 📺 Folders Inside
