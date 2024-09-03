@@ -13,3 +13,41 @@ Edwin | [@edwiee](https://github.com/edwiee)
 <code><img height="30" alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>&nbsp;&nbsp;
 <code><img height="30" alt="PYTHON" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>&nbsp;&nbsp;
 <code><img height="30" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>&nbsp;&nbsp;
+
+#
+### 🧸 Quick Look
+![DEMO(https://github.com/user-attachments/assets/15fc55cc-11e6-414d-bf5e-c876b45b337c)](https://github.com/user-attachments/assets/15fc55cc-11e6-414d-bf5e-c876b45b337c)
+
+#
+### 📺 Folders Inside
+```
+📦
+└── FilmFolio
+    ├── movie_platform
+    │   ├── __init__.py
+    │   ├── asgi.py
+    │   ├── settings.py
+    │   ├── urls.py
+    │   └── wsgi.py
+    ├── users
+    │   ├── migrations
+    │   ├── templates
+    │   ├── __init__.py
+    │   ├── admin.py
+    │   ├── apps.py
+    │   ├── forms.py
+    │   ├── models.py
+    │   ├── tests.py
+    │   ├── urls.py
+    │   └── views.py
+    ├── db.sqlite3
+    └── manage.py
+```
+
+#
+### License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+----
+<p align = "center"><samp>Made with ❤️ - <a href = "https://github.com/edwiee">edwiee</a></samp></p>
