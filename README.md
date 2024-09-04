@@ -7,7 +7,7 @@ Edwin | [@edwiee](https://github.com/edwiee)
 
 #
 ### 🚀 Done With
-<code><img height="30" alt="DJANGO" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>&nbsp;&nbsp;
+<code><img height="30" alt="DJANGO" src="https://avatars.githubusercontent.com/u/27804?s=64&v=4"></code>&nbsp;&nbsp;
 <code><img height="30" alt="NODE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>&nbsp;&nbsp;
 <code><img height="30" alt="BOOTSTRAP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>&nbsp;&nbsp;
 <code><img height="30" alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>&nbsp;&nbsp;
