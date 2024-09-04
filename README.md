@@ -1,5 +1,5 @@
 # FilmFolio
-<p><samp>This FilmFolio website is a community-driven platform where users can discover, discuss, and share their favorite films. Users can register to add new movies, post reviews, rate films, and create a personalized list of favorites. The admin panel provides tools for managing categories, movies, and user accounts, ensuring a well-organized and engaging experience for all movie enthusiasts..</samp></p>
+<p><samp>This FilmFolio website is a community-driven platform where users can discover, discuss, and share their favorite films. Users can register to add new movies, post reviews, rate films, and create a personalized list of favorites. The admin panel provides tools for managing categories, movies, and user accounts, ensuring a well-organized and engaging experience for all movie enthusiasts.</samp></p>
 
 #
 ### Author
